@@ -4,11 +4,11 @@ C module 3
 
 EX NO:3-e) Count the number of Odd and Even elements in an array. 
 
-Date:19/10/2025 
+Date:25/3/2026
 
-Name: VASANTH S 
+Name: Ritesh DP
 
-Ref no: 25017538
+Ref no: 25015366
 
 AIM:
 To write a C program to count the number if odd and even elemets in an array.
